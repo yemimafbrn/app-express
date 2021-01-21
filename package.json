@@ -1,0 +1,24 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yfbrn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yfbrn/app-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yfbrn/app-express/issues"
+  },
+  "homepage": "https://github.com/yfbrn/app-express#readme"
+}
